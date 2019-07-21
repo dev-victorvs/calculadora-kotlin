@@ -37,5 +37,5 @@ Calculadora de Física criada a partir de recursos básicos da linguagem Kotlin.
    - Fluxo de Indução
    - Força Eletromotriz
    
-   ## CONTRIBUIÇÃO
-   Sinta-se livre para contribuir com este pequeno projeto.
+## CONTRIBUIÇÃO
+Sinta-se livre para contribuir com este pequeno projeto.
