@@ -4,7 +4,7 @@ fun main() {
     println(
         "@author: VICTOR VINICIUS VIEIRA SANTOS\n" +
         "@linkedin: https://www.linkedin.com/in/vieira-victor/")
-    println("@github: https://github.com/victorvs-dev")
+    println("@github: https://github.com/dev-victorvs")
 
     println("")
     println("------------------------------------------")
